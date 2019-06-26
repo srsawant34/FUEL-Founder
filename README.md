@@ -2,8 +2,9 @@
 A biography application of FUEL organization
 
 Screenshots:
-
-![1st Page](https://github.com/srsawant34/FUEL-Founder/blob/master/1st.JPG "First Page")
+<br>
+First Page - 
+<br>![1st Page](https://github.com/srsawant34/FUEL-Founder/blob/master/1st.JPG "First Page")
 
 Second Page - 
 ![1st Page](https://github.com/srsawant34/FUEL-Founder/blob/master/2nd.JPG)
